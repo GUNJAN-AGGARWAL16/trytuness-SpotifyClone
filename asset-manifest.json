@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trytuness-SpotifyClone/static/css/main.d27049fb.chunk.css",
+    "main.js": "/trytuness-SpotifyClone/static/js/main.02aa5b17.chunk.js",
+    "main.js.map": "/trytuness-SpotifyClone/static/js/main.02aa5b17.chunk.js.map",
+    "runtime-main.js": "/trytuness-SpotifyClone/static/js/runtime-main.044d4c43.js",
+    "runtime-main.js.map": "/trytuness-SpotifyClone/static/js/runtime-main.044d4c43.js.map",
+    "static/js/2.8dca2e4e.chunk.js": "/trytuness-SpotifyClone/static/js/2.8dca2e4e.chunk.js",
+    "static/js/2.8dca2e4e.chunk.js.map": "/trytuness-SpotifyClone/static/js/2.8dca2e4e.chunk.js.map",
+    "index.html": "/trytuness-SpotifyClone/index.html",
+    "static/css/main.d27049fb.chunk.css.map": "/trytuness-SpotifyClone/static/css/main.d27049fb.chunk.css.map",
+    "static/js/2.8dca2e4e.chunk.js.LICENSE.txt": "/trytuness-SpotifyClone/static/js/2.8dca2e4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.044d4c43.js",
+    "static/js/2.8dca2e4e.chunk.js",
+    "static/css/main.d27049fb.chunk.css",
+    "static/js/main.02aa5b17.chunk.js"
+  ]
+}
